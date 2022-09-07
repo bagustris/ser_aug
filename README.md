@@ -8,7 +8,7 @@ This repository consists of python scripts to run experiments in the paper "Effe
 
 Note that the datasets (IEMOCAP and JTES) are not included in this repository. Please obtain them from the authors of the dataset.
 
-There are four experiments: JTES-SI, JTES-TI, JTES-STI, and IEMOCAP. Please run each scripts in each directory. The corresponding directories are 
+There are four experiments: JTES-SI, JTES-TI, JTES-STI, and IEMOCAP. Please run each script in each directory. The corresponding directories are 
 
 ```bash
 bagus@m049:ser_aug$ tree
