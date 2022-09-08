@@ -29,7 +29,7 @@ $ pip install -r requirements.txt
 ```
 # Caution
 The code for reproducing ARHMM augmentations (and SPC, speech clenaed) are not 
-given due copyrights. For SPC, you can `librosa` library (using start-end silence 
+given due copyrights. For SPC, you can use `librosa` library (using start-end silence 
 removal, codes are not provided in this repository).
 
 # Reproduce the results
