@@ -21,10 +21,12 @@ bagus@m049:ser_aug$ tree
 ```
 
 # Installation
-The scripts are written in python (tested on python version 3.8). The required packages are listed in requirements.txt. Please install them before running the scripts. We recommend using virtual environment to install the packages.
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+The scripts are written in python (tested on python version 3.8). The required packages are listed in requirements.txt. Please install them before running the scripts. We recommend using a virtual environment to install the packages.
+```bash
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+```
 
 # Reproduce the results
 1. To obtain results on JTES-SI (Table 2), please run the following command:
