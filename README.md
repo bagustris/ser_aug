@@ -13,7 +13,7 @@ There are four experiments: JTES-SI, JTES-TI, JTES-STI, and IEMOCAP. Please run 
 ```bash
 bagus@m049:ser_aug$ tree
 .
-├── iemocap-w2v2-svm
+├── iemocap-w2v2-svm-si
 ├── jtes-w2v2-svm-si
 ├── jtes-w2v2-svm-sti
 ├── jtes-w2v2-svm-ti
