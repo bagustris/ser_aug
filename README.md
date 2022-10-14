@@ -71,3 +71,6 @@ Please cite the following paper if you use this repository:
 > Atmaja, B. T.; Sasou, A. (2022). Effects of Data Augmentations 
 > on Speech Emotion Recognition. Sensors, 22(16), 5941,
 > https://doi.org/10.3390/s22165941.
+
+
+For commercial use and other questions, please contact Bagus Tris Atmaja at `b-atmaja@aist.go.jp`.
